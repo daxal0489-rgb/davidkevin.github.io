@@ -125,13 +125,6 @@
   </div>
 
   <div class="section">
-    <h2> Contact</h2>
-    <p>
-      Tu peux ajouter ici :
-      <ul>
-        <li>Email professionnel</li>
-        <li>LinkedIn</li>
-        <li>GitHub</li>
       </ul>
     </p>
   </div>
