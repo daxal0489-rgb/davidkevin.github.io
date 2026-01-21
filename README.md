@@ -41,7 +41,7 @@
   <p><strong>Profil :</strong> Technicien Systèmes et Réseaux (TSSR)</p>
 
   <div class="section">
-    <h2>📌 Projet : Mise en place d'une infrastructure Linux (DHCP + DNS)</h2>
+    <h2>Projet : Mise en place d'une infrastructure Linux (DHCP + DNS)</h2>
     <p>
       Ce projet a été réalisé dans le cadre de ma formation.  
       L’objectif était de concevoir et déployer une infrastructure réseau fonctionnelle sous Linux
@@ -50,7 +50,7 @@
   </div>
 
   <div class="section">
-    <h2>🎯 Objectif du projet</h2>
+    <h2> Objectif du projet</h2>
     <ul>
       <li>Installer un serveur Linux</li>
       <li>Mettre en place un service DHCP fonctionnel</li>
@@ -61,7 +61,7 @@
   </div>
 
   <div class="section">
-    <h2>🖥️ Environnement technique</h2>
+    <h2> Environnement technique</h2>
     <ul>
       <li>Ubuntu Server 24.04 LTS</li>
       <li>Linux Desktop (client)</li>
@@ -75,7 +75,7 @@
   </div>
 
   <div class="section">
-    <h2>🌐 Architecture réseau</h2>
+    <h2> Architecture réseau</h2>
     <ul>
       <li>Serveur : lx01 (Ubuntu Server)</li>
       <li>Clients : lx02 (Linux Desktop), Win10</li>
@@ -89,7 +89,7 @@
   </div>
 
   <div class="section">
-    <h2>⚙️ Réalisations techniques</h2>
+    <h2> Réalisations techniques</h2>
     <ul>
       <li>Configuration IP statique avec Netplan</li>
       <li>Mise en place du routage IP (ip_forward)</li>
@@ -102,7 +102,7 @@
   </div>
 
   <div class="section">
-    <h2>✅ Résultats obtenus</h2>
+    <h2> Résultats obtenus</h2>
     <ul>
       <li>Les clients reçoivent automatiquement une adresse IP via DHCP</li>
       <li>La résolution DNS interne fonctionne correctement</li>
@@ -112,7 +112,7 @@
   </div>
 
   <div class="section">
-    <h2>🧠 Compétences démontrées</h2>
+    <h2> Compétences démontrées</h2>
     <span class="badge">Linux</span>
     <span class="badge">Réseaux TCP/IP</span>
     <span class="badge">DHCP</span>
@@ -125,7 +125,7 @@
   </div>
 
   <div class="section">
-    <h2>📫 Contact</h2>
+    <h2> Contact</h2>
     <p>
       Tu peux ajouter ici :
       <ul>
